@@ -11,8 +11,7 @@
 | 날짜 | 플랫폼 | 문제명 | 난이도 | 풀이 링크 |
 | :--- | :--- | :--- | :--- | :--- |
 | 26.03.23 | Programmers | 최고의 집합 | Lv.3 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
-
-
+| 26.03.23 | Programmers | 옹알이(1) | Lv.1 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/120956) |
 
 ---
 
