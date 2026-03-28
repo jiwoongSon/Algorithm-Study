@@ -10,10 +10,12 @@
 ## 📅 풀이 기록
 | 날짜 | 플랫폼 | 문제명 | 난이도 | 풀이 링크 |
 | :--- | :--- | :--- | :--- | :--- |
-| 26.03.23 | Programmers | 최고의 집합 | Lv.3 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
-| 26.03.24 | Programmers | 옹알이(1) | Lv.0 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/120956) |
-| 26.03.25 | Programmers | 평행 | Lv.0 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/120875) |
-| 26.03.26 | Programmers | 폰켓몬 | Lv.1 | [Link](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
+| 26.03.23 | Programmers | 최고의 집합 | Lv.3 |
+| 26.03.24 | Programmers | 옹알이(1) | Lv.0 |
+| 26.03.25 | Programmers | 평행 | Lv.0 |
+| 26.03.26 | Programmers | 폰켓몬 | Lv.1 |
+| 26.03.27 | Programmers | 완주하지 못한 선수 | Lv.1 |
+| 26.03.28 | Programmers | 배달 | Lv.1 |
 
 ---
 
