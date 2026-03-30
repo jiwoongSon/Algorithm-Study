@@ -16,6 +16,8 @@
 | 26.03.26 | Programmers | 폰켓몬 | Lv.1 |
 | 26.03.27 | Programmers | 완주하지 못한 선수 | Lv.1 |
 | 26.03.28 | Programmers | 배달 | Lv.1 |
+| 26.03.28 | Baekjoon | 1504 특정한 최단 경로 | Gold |
+
 
 ---
 
