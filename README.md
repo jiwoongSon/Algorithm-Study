@@ -20,7 +20,7 @@
 | 26.03.31 | Programmers | 게임 맵 최단거리 | Lv.1 |
 | 26.04.03 | Programmers | 무인도 여행 | Lv.2 |
 | 26.04.19 | Programmers | 의상 | Lv.2 |
-|  | Programmers | 올바른 괄호 | Lv.2 |
+| 26.04.22 | Programmers | 메뉴 리뉴얼 | Lv.2 |
 |  | Programmers | 기능개발 | Lv.2 |
 |  | Programmers | 완전탐색 | Lv.2 |
 |  | Programmers | 피로도 | Lv.2 |
