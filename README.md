@@ -27,6 +27,7 @@
 | 26.04.30 | Programmers | 타겟 넘버 | Lv.2 |
 | 26.05.01 | Programmers | 네트워크 | Lv.3 |
 | 26.05.03 | Programmers | 피로도 | Lv.2 |
+| 26.05.05 | Programmers | 기능개발 | Lv.2 |
 
 
 ---
