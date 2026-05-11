@@ -8,26 +8,29 @@
 ---
 
 ## 📅 풀이 기록
-| 날짜 | 플랫폼 | 문제명 | 난이도 | 풀이 링크 |
-| :--- | :--- | :--- | :--- | :--- |
-| 26.03.23 | Programmers | 최고의 집합 | Lv.3 |
-| 26.03.24 | Programmers | 옹알이(1) | Lv.0 |
-| 26.03.25 | Programmers | 평행 | Lv.0 |
-| 26.03.26 | Programmers | 폰켓몬 | Lv.1 |
-| 26.03.27 | Programmers | 완주하지 못한 선수 | Lv.1 |
-| 26.03.28 | Programmers | 배달 | Lv.1 |
-| 26.03.29 | Baekjoon | 1504 특정한 최단 경로 | Gold |
-| 26.03.31 | Programmers | 게임 맵 최단거리 | Lv.2 |
-| 26.04.03 | Programmers | 무인도 여행 | Lv.2 |
-| 26.04.19 | Programmers | 의상 | Lv.2 |
-| 26.04.22 | Programmers | 메뉴 리뉴얼 | Lv.2 |
-| 26.04.25 | Programmers | 소수 찾기 | Lv.2 |
-| 26.04.26 | Programmers | 콜라츠 추측 | Lv.1 |
-| 26.04.28 | Programmers | 전화번호 목록 | Lv.2 |
-| 26.04.30 | Programmers | 타겟 넘버 | Lv.2 |
-| 26.05.01 | Programmers | 네트워크 | Lv.3 |
-| 26.05.03 | Programmers | 피로도 | Lv.2 |
-| 26.05.05 | Programmers | 기능개발 | Lv.2 |
+| 날짜 | 플랫폼 | 문제명 | 난이도 | 풀이 링크 | 내용 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.03.23 | Programmers | 최고의 집합 | Lv.3 | |
+| 26.03.24 | Programmers | 옹알이(1) | Lv.0 | |
+| 26.03.25 | Programmers | 평행 | Lv.0 | | 
+| 26.03.26 | Programmers | 폰켓몬 | Lv.1 | | 
+| 26.03.27 | Programmers | 완주하지 못한 선수 | Lv.1 | |
+| 26.03.28 | Programmers | 배달 | Lv.1 | |
+| 26.03.29 | Baekjoon | 1504 특정한 최단 경로 | Gold | |
+| 26.03.31 | Programmers | 게임 맵 최단거리 | Lv.2 | | 
+| 26.04.03 | Programmers | 무인도 여행 | Lv.2 | | 
+| 26.04.19 | Programmers | 의상 | Lv.2 | | 
+| 26.04.22 | Programmers | 메뉴 리뉴얼 | Lv.2 | | 
+| 26.04.25 | Programmers | 소수 찾기 | Lv.2 | | 
+| 26.04.26 | Programmers | 콜라츠 추측 | Lv.1 | | 
+| 26.04.28 | Programmers | 전화번호 목록 | Lv.2 | |
+| 26.04.30 | Programmers | 타겟 넘버 | Lv.2 | |
+| 26.05.01 | Programmers | 네트워크 | Lv.3 | |
+| 26.05.03 | Programmers | 피로도 | Lv.2 | |
+| 26.05.05 | Programmers | 기능개발 | Lv.2 | |
+| 26.05.07 | Programmers | 프로세스 | Lv.2 | |
+| 26.05.08 | Programmers | 주식가격 | Lv.2 | stack | 
+| 26.05.10 | Programmers | 같은 숫자는 싫어 | Lv.1 | stack |
 
 
 ---

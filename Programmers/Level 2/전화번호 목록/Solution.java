@@ -18,6 +18,7 @@ class Solution {
         String phoneNum1 = phone_book[index1];
         String phoneNum2 = phone_book[index2];
 
+        
 
         if(phoneNum1.length() > phoneNum2.length()) return isHead(phone_book, index1, ++index2);
 
