@@ -48,7 +48,7 @@ class Solution {
         - Recursive하게 구현
 
 
-## Java 내부 Stack과 Deque의 차이 
+## Java 내부 Stack과 Deque의 차이
 - Stack Class : java 1.0 시절에 만들어짐.
     - 따라서 synchronized가 걸려있다. 
         - Single Thread 환경에서도 Lock을 걸었다가 푸는 불필요한 Overhead 사용

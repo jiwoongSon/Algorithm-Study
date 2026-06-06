@@ -33,6 +33,7 @@ class Solution {
         }
         Collections.sort(answerList); 
         return answerList.toArray(new String[0]); 
+        
     }
     private void combination(String order, StringBuilder sb, int start, int depth, int r) {
         if(depth == r) { //탈출 조건, 목표한 개수인 r만큼 알파벳을 다 뽑았으면
