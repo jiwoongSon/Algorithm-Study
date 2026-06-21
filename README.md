@@ -33,6 +33,10 @@
 | 26.05.10 | Programmers | 같은 숫자는 싫어 | Lv.1 | Stack |
 | 26.05.31 | Programmers | 다리를 지나는 트럭 | Lv.2 | Queue |
 | 26.06.03 | Programmers | 큰 수 만들기 | Lv.2 | Greedy / Stack |
+| 26.06.14 | Programmers | 카펫 | Lv.2 | Brute Force(완전탐색) |
+| 26.06.14 | Programmers | 조이스틱 | Lv.2 | Brute Force(완전탐색) |
+| 26.06.21 | Programmers | 모음사전 | Lv.2 | Brute Force(완전탐색) |
+
 
 ---
 

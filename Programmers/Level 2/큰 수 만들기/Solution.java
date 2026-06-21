@@ -1,5 +1,6 @@
 class Solution {
     public String solution(String number, int k) {
+    
         StringBuilder stack = new StringBuilder();
         
         for (int i = 0; i < number.length(); i++) {
